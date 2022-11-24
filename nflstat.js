@@ -209,8 +209,6 @@ function newElement() {
 
   if (inputValue === '') {
 
-    alert("This field cannot be empty!");
-
   } else {
 
     document.getElementById("list").appendChild(li);
