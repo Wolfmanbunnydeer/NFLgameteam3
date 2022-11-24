@@ -1,4 +1,4 @@
-  var NFL = (document.createElement("flex-container").innerHTML = [
+ var NFL =[
     {
       City: "Arizona",
       Name: "Arizona Cardinal",
@@ -163,4 +163,4 @@
       Homepoint: "90",
       AwayPoint: "87"
     }
-  ]);
+  ];
