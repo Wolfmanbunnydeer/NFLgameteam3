@@ -1,8 +1,8 @@
-function UPDATE()
+function Update()
 {
-    update = setInterval(UPDATE, 60);
+    update = setInterval(Update, 50);
 }
-function DRAW()
+function AddGame()
 {
     window.addEventListener('keydown', function (e) {
         keys.keys = (keys.keys || []);
