@@ -2,7 +2,7 @@ var tempdate = document.querySelector("date");
 var hometeam = document.querySelector("Hometeam");
 var awayteam = document.querySelector("awayteam");
 var homepoint = document.querySelector("homepoint");
-var awaypoint = document.querySelector(".awaypoint");
+var awaypoint = document.querySelector("awaypoint");
 
 var NFL = document.createElement("game").innerHTML = [{
     thisDate: tempdate,
